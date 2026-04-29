@@ -8,7 +8,7 @@ export default function Hero() {
     >
       <div className="relative z-10 max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:grid md:grid-cols-2 gap-8 md:gap-16 items-center">
         {/* HEADLINE - First on mobile */}
-        <h1 className="text-5xl sm:text-6xl md:text-6xl font-bold leading-tight tracking-tight md:col-start-1 md:row-start-1 order-1 pt-4 md:pt-0">
+        <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold leading-tight tracking-tight md:col-start-1 md:row-start-1 order-1 pt-4 md:pt-0 break-words">
           Moderne web <br />
           entwicklung mit
           <br />
