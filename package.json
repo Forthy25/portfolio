@@ -1,7 +1,26 @@
 {
   "name": "portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Modern, responsive one-page portfolio website showcasing web development projects and skills",
+  "author": {
+    "name": "Marc Schüttforth",
+    "email": "marc.schuettforth@outlook.com",
+    "url": "https://github.com/Forthy25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Forthy25/portfolio"
+  },
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "next.js",
+    "react",
+    "tailwindcss",
+    "web-developer",
+    "frontend"
+  ],
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
